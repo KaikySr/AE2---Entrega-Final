@@ -102,7 +102,7 @@ gr1 = (
         tooltip=["habilidade", alt.Tooltip("nivel_medio:Q", format=".2f")],
     )
 )
-st.altair_chart(gr1, use_container_width=True)
+st.altair_chart(gr1, width='stretch')
 
 col_a, col_b = st.columns(2)
 
@@ -120,7 +120,7 @@ with col_a:
             tooltip=["faixa_etaria", "qtd"],
         )
     )
-    st.altair_chart(gr2, use_container_width=True)
+    st.altair_chart(gr2, width='stretch')
 
 # ----- Grafico 3: interesse por oficina
 with col_b:
@@ -136,7 +136,7 @@ with col_b:
             tooltip=["oficina", "qtd"],
         )
     )
-    st.altair_chart(gr3, use_container_width=True)
+    st.altair_chart(gr3, width='stretch')
 
 # ----- Recomendacao automatica de priorizacao
 st.divider()
@@ -149,4 +149,4 @@ st.success(
 )
 
 with st.expander("Ver dados brutos"):
-    st.dataframe(df_f, use_container_width=True)
+    st.dataframe(df_f, width='stretch')
