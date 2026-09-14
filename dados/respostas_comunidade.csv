@@ -1,0 +1,81 @@
+id,faixa_etaria,genero,escolaridade,tem_internet_casa,dispositivo_principal,ligar_e_usar_computador,navegar_internet,enviar_email,usar_apps_gov_br,buscar_emprego_online,seguranca_senhas,interesse_oficina
+1,40-59,Feminino,Fundamental incompleto,Sim,Smartphone,1,0,2,2,2,2,Seguranca digital
+2,40-59,Feminino,Medio completo,Nao,Computador,2,2,1,1,2,0,Servicos publicos digitais (gov.br)
+3,25-39,Feminino,Medio completo,Nao,Smartphone,3,3,1,1,2,1,Curriculo e emprego online
+4,15-24,Feminino,Medio incompleto,Sim,Nenhum,1,1,1,1,1,1,Internet e e-mail
+5,60+,Feminino,Fundamental completo,Nao,Tablet,0,1,0,3,0,0,Internet e e-mail
+6,40-59,Feminino,Superior,Sim,Smartphone,2,2,1,1,2,0,Curriculo e emprego online
+7,25-39,Feminino,Medio incompleto,Nao,Nenhum,1,1,1,1,1,1,Seguranca digital
+8,40-59,Masculino,Medio incompleto,Sim,Smartphone,2,3,1,1,2,2,Internet e e-mail
+9,40-59,Feminino,Medio completo,Sim,Smartphone,0,1,1,1,1,0,Seguranca digital
+10,40-59,Masculino,Fundamental completo,Sim,Smartphone,0,2,2,1,1,1,Informatica basica
+11,60+,Feminino,Fundamental completo,Nao,Smartphone,0,1,2,0,2,0,Curriculo e emprego online
+12,15-24,Masculino,Medio incompleto,Nao,Tablet,2,3,2,2,2,1,Seguranca digital
+13,40-59,Feminino,Medio incompleto,Sim,Smartphone,0,1,3,1,1,0,Servicos publicos digitais (gov.br)
+14,25-39,Masculino,Medio completo,Sim,Nenhum,1,1,1,1,1,1,Informatica basica
+15,40-59,Feminino,Medio incompleto,Sim,Smartphone,2,2,1,1,3,3,Seguranca digital
+16,40-59,Feminino,Fundamental incompleto,Sim,Smartphone,2,2,1,2,1,0,Informatica basica
+17,15-24,Masculino,Fundamental completo,Nao,Smartphone,3,3,2,3,2,3,Curriculo e emprego online
+18,60+,Masculino,Superior,Sim,Computador,2,0,2,0,1,1,Internet e e-mail
+19,60+,Masculino,Medio completo,Sim,Smartphone,1,2,0,1,3,0,Seguranca digital
+20,40-59,Feminino,Fundamental incompleto,Sim,Smartphone,1,1,1,1,1,1,Seguranca digital
+21,15-24,Masculino,Superior,Sim,Smartphone,3,3,1,3,1,2,Informatica basica
+22,40-59,Feminino,Medio incompleto,Nao,Smartphone,2,3,1,2,1,1,Servicos publicos digitais (gov.br)
+23,60+,Masculino,Superior,Sim,Computador,1,1,1,1,2,0,Internet e e-mail
+24,25-39,Feminino,Superior,Nao,Computador,3,2,1,2,0,1,Informatica basica
+25,60+,Feminino,Superior,Sim,Smartphone,1,1,1,1,0,0,Seguranca digital
+26,25-39,Masculino,Medio completo,Nao,Smartphone,2,2,2,2,3,2,Curriculo e emprego online
+27,40-59,Feminino,Fundamental completo,Sim,Smartphone,0,1,1,1,2,2,Informatica basica
+28,60+,Feminino,Superior,Sim,Smartphone,1,0,0,0,2,0,Internet e e-mail
+29,60+,Feminino,Medio completo,Nao,Smartphone,1,0,1,0,1,0,Informatica basica
+30,60+,Feminino,Medio incompleto,Nao,Smartphone,1,0,1,2,0,1,Informatica basica
+31,60+,Feminino,Superior,Nao,Smartphone,1,1,1,0,0,0,Informatica basica
+32,15-24,Feminino,Superior,Sim,Smartphone,3,2,3,2,3,3,Seguranca digital
+33,60+,Feminino,Fundamental completo,Nao,Computador,0,1,0,0,0,2,Servicos publicos digitais (gov.br)
+34,40-59,Masculino,Superior,Sim,Computador,2,2,3,1,2,1,Servicos publicos digitais (gov.br)
+35,25-39,Masculino,Superior,Sim,Smartphone,2,2,1,3,1,2,Internet e e-mail
+36,40-59,Feminino,Fundamental incompleto,Nao,Smartphone,2,0,1,1,1,2,Internet e e-mail
+37,60+,Masculino,Superior,Nao,Smartphone,1,2,0,1,1,1,Informatica basica
+38,40-59,Feminino,Medio completo,Nao,Computador,2,2,2,1,2,0,Seguranca digital
+39,40-59,Masculino,Superior,Nao,Smartphone,0,2,1,2,2,1,Internet e e-mail
+40,60+,Feminino,Fundamental completo,Nao,Smartphone,1,1,1,1,0,2,Internet e e-mail
+41,15-24,Feminino,Medio completo,Sim,Smartphone,2,3,2,3,1,3,Seguranca digital
+42,60+,Feminino,Medio completo,Nao,Smartphone,1,1,1,0,1,0,Seguranca digital
+43,40-59,Masculino,Medio completo,Sim,Smartphone,2,2,1,1,2,2,Internet e e-mail
+44,60+,Feminino,Fundamental incompleto,Nao,Smartphone,1,1,1,0,1,1,Curriculo e emprego online
+45,25-39,Masculino,Medio completo,Sim,Computador,2,2,3,2,3,2,Informatica basica
+46,40-59,Masculino,Fundamental completo,Nao,Nenhum,1,0,1,1,1,1,Curriculo e emprego online
+47,40-59,Masculino,Fundamental incompleto,Sim,Smartphone,1,1,1,2,2,1,Curriculo e emprego online
+48,25-39,Masculino,Fundamental completo,Sim,Computador,3,3,3,1,3,3,Informatica basica
+49,25-39,Feminino,Medio incompleto,Sim,Smartphone,3,2,1,2,1,3,Curriculo e emprego online
+50,40-59,Feminino,Medio incompleto,Nao,Nenhum,0,0,1,1,1,0,Servicos publicos digitais (gov.br)
+51,60+,Masculino,Fundamental completo,Sim,Nenhum,1,0,0,0,0,1,Curriculo e emprego online
+52,15-24,Masculino,Medio incompleto,Sim,Nenhum,1,1,1,1,1,1,Internet e e-mail
+53,40-59,Masculino,Fundamental incompleto,Sim,Computador,1,2,1,3,1,2,Servicos publicos digitais (gov.br)
+54,25-39,Masculino,Medio incompleto,Sim,Computador,2,3,2,1,2,0,Internet e e-mail
+55,15-24,Masculino,Superior,Sim,Smartphone,1,1,3,2,2,3,Seguranca digital
+56,15-24,Feminino,Fundamental completo,Sim,Smartphone,2,1,3,2,2,3,Servicos publicos digitais (gov.br)
+57,15-24,Feminino,Fundamental incompleto,Nao,Smartphone,2,3,2,2,3,3,Servicos publicos digitais (gov.br)
+58,15-24,Feminino,Superior,Sim,Smartphone,3,2,2,2,1,3,Curriculo e emprego online
+59,25-39,Masculino,Fundamental completo,Sim,Computador,2,2,3,2,2,2,Curriculo e emprego online
+60,25-39,Masculino,Medio incompleto,Sim,Smartphone,2,1,1,0,2,1,Internet e e-mail
+61,25-39,Feminino,Fundamental completo,Sim,Nenhum,1,1,1,1,1,1,Informatica basica
+62,25-39,Feminino,Superior,Sim,Smartphone,2,2,3,2,2,3,Informatica basica
+63,25-39,Masculino,Fundamental incompleto,Nao,Smartphone,3,2,2,2,2,1,Curriculo e emprego online
+64,60+,Feminino,Medio completo,Nao,Computador,2,1,0,1,1,1,Curriculo e emprego online
+65,40-59,Feminino,Superior,Nao,Tablet,2,1,1,2,2,0,Informatica basica
+66,40-59,Feminino,Medio incompleto,Sim,Smartphone,1,1,1,1,1,2,Servicos publicos digitais (gov.br)
+67,25-39,Masculino,Superior,Sim,Nenhum,1,1,1,1,1,1,Informatica basica
+68,25-39,Feminino,Medio incompleto,Nao,Smartphone,1,2,3,0,2,3,Curriculo e emprego online
+69,15-24,Masculino,Fundamental incompleto,Sim,Smartphone,2,3,1,3,1,2,Servicos publicos digitais (gov.br)
+70,40-59,Masculino,Fundamental completo,Nao,Computador,1,2,1,3,0,3,Internet e e-mail
+71,60+,Feminino,Medio completo,Nao,Tablet,2,1,0,0,0,1,Internet e e-mail
+72,25-39,Feminino,Fundamental incompleto,Sim,Smartphone,3,1,1,2,2,1,Internet e e-mail
+73,15-24,Masculino,Medio completo,Sim,Computador,1,1,3,1,2,3,Curriculo e emprego online
+74,60+,Feminino,Medio incompleto,Sim,Computador,2,1,0,1,0,0,Curriculo e emprego online
+75,15-24,Feminino,Fundamental incompleto,Sim,Smartphone,2,3,3,3,1,2,Internet e e-mail
+76,15-24,Masculino,Medio completo,Sim,Computador,3,2,2,3,2,3,Curriculo e emprego online
+77,60+,Masculino,Medio incompleto,Sim,Smartphone,1,1,2,0,0,1,Curriculo e emprego online
+78,60+,Feminino,Medio incompleto,Nao,Smartphone,1,1,2,1,1,2,Informatica basica
+79,60+,Masculino,Fundamental completo,Nao,Nenhum,0,0,0,0,0,0,Internet e e-mail
+80,40-59,Masculino,Medio completo,Nao,Smartphone,2,2,3,3,1,2,Internet e e-mail

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+.DS_Store
+
+# Arquivos internos de contexto (nao fazem parte do produto)
+CLAUDE.md
+HANDOFF.md
+
+# Logs e temporarios
+*.tmp
+*.log
+.~lock.*#
